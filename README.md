@@ -1,6 +1,7 @@
 # Software-Assurance
-Software Assurance course - Summer '25
-✅ Types of Version Control Systems — What type is Git?
+Software Assurance course - Summer '25.
+
+✅ **Types of Version Control Systems — What type is Git?**
 There are mainly 3 types of version control systems:
 
 Local VCS – tracks changes only on your own computer.
