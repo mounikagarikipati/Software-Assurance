@@ -31,7 +31,7 @@ I published my local branch to the remote using:
 ### Step 5: Created a Pull Request
 Once the changes were pushed, I went to GitHub and created a Pull Request to merge feature/assignment4 into the main branch.
 
-![Alt text](create_pull.png)
-![Alt text](pull_merge.png)
-![Alt text](delete_branch.png)
+![Alt text](./screenshots/create_pull.png)
+![Alt text](./screenshots/pull_merge.png)
+![Alt text](./screenshots/delete_branch.png)
 
