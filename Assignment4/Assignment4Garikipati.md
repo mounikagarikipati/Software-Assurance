@@ -21,5 +21,17 @@ after adding:
 ### Step 3: Committed Changes on the New Branch
 
 I made some changes to my markdown file (Assignment4Garikipati.md) on the feature/assignment4 branch and committed them:
+![Alt text](./screenshots/c1png)
 
+### Step 4: Pushed the Feature Branch to GitHub
+I published my local branch to the remote using:
+
+![Alt text](./screenshots/p1.png)
+
+### Step 5: Created a Pull Request
+Once the changes were pushed, I went to GitHub and created a Pull Request to merge feature/assignment4 into the main branch.
+
+![Alt text](create_pull.png)
+![Alt text](pull_merge.png)
+![Alt text](delete_branch.png)
 
