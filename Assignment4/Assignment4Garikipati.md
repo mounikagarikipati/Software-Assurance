@@ -35,3 +35,6 @@ Once the changes were pushed, I went to GitHub and created a Pull Request to mer
 ![Alt text](./screenshots/pull_merge.png)
 ![Alt text](./screenshots/delete_branch.png)
 
+### Step 6: Deleted Remote Branch Metadata
+After merging and deleting the remote feature branch on GitHub, I ran the following command to remove stale references to it from my local machine:
+![Alt text](./screenshots/d.png)
