@@ -1,4 +1,4 @@
 # Software Assurance Assignments
 
 ## Links to Assignments
-- [Assignment #4](./Assignment4Garikipati.md)
+- [Assignment #4](./Assignment4/Assignment4Garikipati.md)
